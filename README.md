@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlyODM1cndnbGZpYmJkb3IybDd6bmpzd3J3c2hpb2t0ZnA2bDFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)](https://Nirmit2103.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FGitHub&psig=AOvVaw0qF4vJkAb_nT4vYW26Y_-v&ust=1737574035714000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCo-evFh4sDFQAAAAAdAAAAABAR)](https://Nirmit2103.io)
 
 <h1 align="center">Hi 👋, I'm Nirmit Jain</h1>
 <h3 align="center">Aspiring Developer | Coding Enthusiast | Computer Science Sorceror from India</h3>
