@@ -1,5 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FGitHub&psig=AOvVaw0qF4vJkAb_nT4vYW26Y_-v&ust=1737574035714000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCo-evFh4sDFQAAAAAdAAAAABAR)](https://Nirmit2103.io)
-
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzdnpqemVmM3ZleWQyNW04cGdmYjFkazdocXV0b3g0a3h1ajdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BhNcjRnnMR6kVRJfK/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Nirmit Jain</h1>
 <h3 align="center">Aspiring Developer | Coding Enthusiast | Computer Science Sorceror from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdoaHFuYjFid3RjZWplcjZycnkwcW1hZ3JmZmV3c2w2aTdnc3F5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
