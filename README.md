@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzdnpqemVmM3ZleWQyNW04cGdmYjFkazdocXV0b3g0a3h1ajdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BhNcjRnnMR6kVRJfK/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzdnpqemVmM3ZleWQyNW04cGdmYjFkazdocXV0b3g0a3h1ajdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BhNcjRnnMR6kVRJfK/giphy.gif" width="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Nirmit Jain</h1>
 <h3 align="center">Aspiring Developer | Coding Enthusiast | Computer Science Sorceror from India</h3>
